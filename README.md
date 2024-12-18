@@ -4,6 +4,9 @@ Cube Runner Game is an engaging and fast-paced 3D runner game built using Unity3
 ## GamePlay
 https://github.com/user-attachments/assets/f5d8315d-fe5e-43ae-9024-1da5b04444f5
 
+## Map view
+https://github.com/user-attachments/assets/9872ff61-533d-48c0-9824-ea8730b34b7e
+
 ### Controls
 - **A** - Left
 - **D** - Right
